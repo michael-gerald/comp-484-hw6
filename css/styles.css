@@ -1,0 +1,52 @@
+/* Color Palette
+# - color 1 -- #0F2854
+# - color 2 -- #1C4D8D
+# - color 3 -- #4988C4
+# - color 4 -- #BDE8F5
+*/
+
+/* Global styles 
+------------------------------------*/
+body {
+    background: #0F2854;
+    font-family: "Merriweather" , sans-serif;
+}
+h1{ 
+    font-size: 50px;
+    font-family: "Open Sans", sans-serif;
+}
+h2{
+    font-size: 40px;
+    font-family: "Open Sans", sans-serif;
+}
+h3{
+    font-size: 30px;
+    font-family: "Open Sans", sans-serif;  
+}
+p {
+    font-size: 25px;
+}
+img {
+    height: 300px;
+    width: 350px;
+}
+/* Header & Footer 
+------------------------------------*/
+header, footer{
+    background: #1C4D8D;
+    color: white;
+}
+
+
+/* Work Experience
+------------------------------------*/
+.work{
+    background: #4988C4;
+}
+
+
+/* Education
+------------------------------------*/
+.education{
+    background: #BDE8F5;
+}
